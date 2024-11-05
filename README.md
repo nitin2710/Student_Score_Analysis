@@ -1,4 +1,4 @@
-This Jupyter Notebook, titled "Student Score Analysis", is designed to analyze and visualize student performance data. The notebook applies various data processing and statistical methods to gain insights into students' scores and academic performance.
+This Project is designed to analyze and visualize student performance data. The Project applies various data processing and statistical methods to gain insights into students' scores and academic performance.
 
 Key Features:
 Data Loading and Preprocessing:
